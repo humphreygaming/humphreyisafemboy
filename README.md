@@ -1,4 +1,4 @@
-# humphreyisafemboy
-Hosting place for the "Humphrey's Music Stash" website.
+# humphreyisafemboy.gay
+The hosting place for the "Humphrey's Music Stash" website.
 
-Proudly powered by Wordpress, Elementor, & WPAstra
+Proudly powered by Wordpress, created using Elementor & WPAstra.
